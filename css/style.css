@@ -1,0 +1,11 @@
+body {
+    font-family: Verdana, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    color: green;
+}
+
+.redparagraph {
+    color:red;
+}
